@@ -1,5 +1,5 @@
-const mongoose = require("mongoose");
-import { Types } from "mongoose";
+// const mongoose = require("mongoose");
+// import { Types } from "mongoose";
 
 interface Common {
   appointmentTime: Date;

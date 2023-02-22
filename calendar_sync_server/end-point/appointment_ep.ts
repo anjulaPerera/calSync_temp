@@ -26,4 +26,22 @@ export namespace AppointmentEP {
       }
     });
   }
+
+  export function getAllAppointments(req: any, res: any) {
+    Appointment.find({}, (err: any, doc: any) => {
+      if (err) {
+        return res.status(422).json({
+          success: false,
+          message: "Error while fetching appointments",
+          data: err,
+        });
+      } else {
+        return res.status(200).json({
+          success: true,
+          message: "Successfully fetched appointments",
+          data: doc,
+        });
+      }
+    });
+  }
 }
