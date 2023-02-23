@@ -1,0 +1,19 @@
+API_KEY = AIzaSyBFA4FID6nYmRcE3HN3CmeAB3ekR2QLeJI
+
+CLIENT_ID = 915668700880-rcekom2oam8dtbtihh9lqj6m9leo3dgk.apps.googleusercontent.com
+
+CLIENT_SECRET = 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
+
+
+Apikey- AIzaSyABvO6-YdakDyM5Uhl0TeGWHdervVMJ94c
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+733186350335-8fv9ra1e6p91v89u5gbtu2ldorec8cb7.apps.googleusercontent.com                --id
+
+
+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                       -secret
